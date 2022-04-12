@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://operezcham.xyz/sitemap.xml
