@@ -96,6 +96,17 @@
                 transform var(--animation-duration) ease;
         }
 
+        h1:after {
+            content: attr(abbrev);
+            display: none;
+        }
+
+        @media screen and (max-width:320px) {
+            h1:after {
+                display: block;
+            }
+        }
+
         h1 {
             font-size: 2.2em;
             margin-top: 0;
@@ -869,7 +880,7 @@
 
 <body>
     <header>
-        <h1>Oscar&nbsp;Ernesto Pérez&nbsp;Cham</h1>
+        <h1 abbrev="Oscar&nbsp;E. Pérez&nbsp;Cham">Oscar&nbsp;Ernesto Pérez&nbsp;Cham</h1>
         <hr>
         <img class="emoji" alt="📌" src="https://twemoji.maxcdn.com/v/14.0.2/svg/1f4cc.svg">
         <a href="http://dx.doi.org/10.13140/rg.2.2.17194.29120">PhD in Computer&nbsp;Science</a>,
