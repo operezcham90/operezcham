@@ -6,4 +6,8 @@ This is a basic personal [website](https://operezcham.xyz).
 
 * `_redirects`: Netlify [redirect options](https://docs.netlify.com/routing/redirects/redirect-options/).
 * Icons:
-** apple-touch-icon.png
+* * `apple-touch-icon.png`
+* * `favicon.ico`
+* * `icon-192.png`
+* * `icon-512.png`
+* * `icon.svg`
