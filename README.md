@@ -16,3 +16,4 @@ This is a basic personal [website](https://operezcham.xyz).
 * `manifest.webmanifest`: Instructions for browsers to use icons.
 * `robots.txt`: Instructions for web crawlers.
 * `sitemap.xml`: List of resources.
+* `assets/card.svg`: Card image for previsualization on social networks.
