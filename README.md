@@ -1,6 +1,6 @@
 # Personal Website 🌐
 
-This is a basic personal website showcasing my work and achievements. You can check it out at [https://operezcham.xyz](https://operezcham.xyz).
+This is a basic personal website. You can check it out at [https://operezcham.xyz](https://operezcham.xyz).
 
 ## Files 📁
 
